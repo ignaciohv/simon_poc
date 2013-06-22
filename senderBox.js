@@ -5,6 +5,6 @@ var arguments = process.argv[2];
 //send a message to a user directly
 
 setTimeout((function() {
-  provider.notify('immail.com',  process.argv[2]);
+  provider.notify('immmmmail.com',  process.argv[2]);
  // provider.notify('magdabenavente@gmail.com',  process.argv[2]);
 }), 10000);
